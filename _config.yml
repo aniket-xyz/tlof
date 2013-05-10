@@ -1,6 +1,6 @@
 permalink: /:year/:month/:title
 markdown: kramdown
-exclude: ['Rakefile', 'README.md', 'config.rb']
+exclude: ['Rakefile', 'CNAME', 'README.md', 'config.rb']
 
 url: http://rawrrr.github.com/tlof
 
