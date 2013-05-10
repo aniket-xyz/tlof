@@ -3,7 +3,7 @@ layout: base
 title: Home
 slug: home
 ---
-### Recent writings
+Would you board my sinking ship?
 
 <ul class="block-list list matrix two-cols">
 {% for post in site.posts %}
