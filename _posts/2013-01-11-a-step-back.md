@@ -2,13 +2,13 @@
 layout: post
 title: "A Step Back"
 date: 2013-01-11 22:26
-categories: ["Song of the day"]
+category: "Song of the day"
 ---
-<blockquote>
-Are you alone where you are tonight?
-I'm alone when you're right here
-But I'm still in you somehow, I never left at all
-Now I'm still in you too low
+<blockquote markdown="1">
+Are you alone where you are tonight?<br/>
+I'm alone when you're right here<br/>
+But I'm still in you somehow, I never left at all<br/>
+Now I'm still in you too low<br/>
 So my voice is all you know
 </blockquote>
 

@@ -2,12 +2,12 @@
 layout: post
 title: "What My Heart Held"
 date: 2013-03-06 23:57
-categories: ["Song of the day"]
+category: "Song of the day"
 ---
-<blockquote>
-I feel like I'm stuck in this routine
-Every day is decided before I wake
-Every dream that I've dreamt I don't want to chase
+<blockquote markdown="1">
+I feel like I'm stuck in this routine<br/>
+Every day is decided before I wake<br/>
+Every dream that I've dreamt I don't want to chase<br/>
 All the people I've met, I start forgetting their names
 </blockquote>
 

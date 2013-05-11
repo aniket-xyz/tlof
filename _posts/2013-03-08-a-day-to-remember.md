@@ -2,12 +2,12 @@
 layout: post
 title: "A Day To Remember"
 date: 2013-03-08 09:58
-categories: ["Song of the Day"]
+category: "Song of the day"
 ---
-<blockquote>
-I said I'd never let you go, and I never did
-I said I'd never let you fall and I always meant it
-If you didn't have this chance then I never did
+<blockquote markdown="1">
+I said I'd never let you go, and I never did<br/>
+I said I'd never let you fall and I always meant it<br/>
+If you didn't have this chance then I never did<br/>
 You'll always find me right there, again
 </blockquote>
 

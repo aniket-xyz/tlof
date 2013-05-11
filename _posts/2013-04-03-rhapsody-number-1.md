@@ -2,7 +2,8 @@
 layout: post
 title: "Rhapsody #1"
 date: 2013-04-03 17:13
-categories: ["Rhapsody"]
+category: "Rhapsody"
+no_image: true
 ---
 First of all, apologies for not writing for a long time. To compensate for a month of inactivity, I am going to put down a list of tracks I found in the last few days that'll give you some fodder for a while.
 

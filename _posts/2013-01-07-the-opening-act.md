@@ -2,7 +2,8 @@
 layout: post
 title: "The Opening Act"
 date: 2013-01-07 01:19
-categories: Notes
+category: "Notes"
+no_image: true
 ---
 Welcome, to my little project. Let's not even call it a project.
 

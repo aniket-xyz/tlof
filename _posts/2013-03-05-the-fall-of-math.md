@@ -2,7 +2,7 @@
 layout: post
 title: "The Fall of Math"
 date: 2013-03-05 21:43
-categories: ["Song of the day"]
+category: "Song of the day"
 ---
 I am big metal and lyric fan but fell in love with post-rock last semester. And all this happened due to a senior of mine who made me listen to the mellow post-rock.
 

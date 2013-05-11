@@ -3,13 +3,18 @@ layout: base
 title: Home
 slug: home
 ---
-Would you board my sinking ship?
+[Why did I start this project?](/about).
 
 <ul class="block-list list matrix two-cols">
 {% for post in site.posts %}
 {% capture hour %}{{ post.date | date: '%H' }}{% endcapture %}
-<li{% if post.categories == 'rhapsody' %} class="all-cols"{% endif %}>
-<a class="block-list__link" href="{{ post.url }}">
+<li>
+<a class="media block-list__link" href="{{ post.url }}">
+  {% if post.no_image == true %}
+  <img class="media__img" src="/images/default.jpg">
+  {% else %}
+  <img class="media__img" src="/images{{ post.url }}.jpg">
+  {% endif %}
   <span class="title">{{ post.title }}</span>
   <span class="info milli">
     <date>{{ post.date | date: '%d %b' }}</date> &ndash;

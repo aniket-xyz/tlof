@@ -2,12 +2,12 @@
 layout: post
 title: "Letter From A Thief"
 date: 2013-01-09 07:58
-categories: ["Song of the day"]
+category: "Song of the day"
 ---
-<blockquote>
-If you ever enter my mind
-Stay there, you'll live
-Defend it off and fool them all
+<blockquote markdown="1">
+If you ever enter my mind<br/>
+Stay there, you'll live<br/>
+Defend it off and fool them all<br/>
 Stay there
 </blockquote>
 

@@ -2,14 +2,14 @@
 layout: post
 title: "Someone Anyone"
 date: 2013-01-07 01:28
-categories: ["Song of the day"]
+category: "Song of the day"
 ---
-<blockquote>
-Someone, someone tell me what they’re fighting for
-Anyone, anyone, anyone can start a war
-No one can walk away, no one can walk away truly alive
-Someone, someone, someone tell me why we need it?
-Anyone, anyone, anyone can start a war
+<blockquote markdown="1">
+Someone, someone tell me what they’re fighting for<br/>
+Anyone, anyone, anyone can start a war<br/>
+No one can walk away, no one can walk away truly alive<br/>
+Someone, someone, someone tell me why we need it?<br/>
+Anyone, anyone, anyone can start a war<br/>
 No one can walk away, no one can walk away truly alive
 </blockquote>
 

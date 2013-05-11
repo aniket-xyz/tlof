@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Why did I start this project"
 date: 2013-01-07 01:58
 ---
 ## Why the name?
