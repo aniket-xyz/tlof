@@ -5,9 +5,7 @@ body {
   background: $white;
   color: $gray;
   font-family: $content;
-  font-weight: 300;
-  // padding-left: 2rem;
-  // border-left: 6px solid $blue;
+  font-weight: 400;
 }
 
 .wrapper {
@@ -41,6 +39,7 @@ a {
   }
   a {
     text-align: center;
+    @include vendor(transition, all 250ms linear);
     .title {
       font-weight: 400;
     }
