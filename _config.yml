@@ -3,6 +3,6 @@ relative_permalinks: false
 markdown: kramdown
 exclude: ['Rakefile', 'CNAME', 'README.md', 'config.rb']
 
-url: http://rawrrr.github.com/tlof
+url: http://tlof.aniketpant.com
 
 title: "Thousand Lamps On Fire"
