@@ -1,7 +1,7 @@
 /**
  * Fonts
  */
-$content:           "Droid Serif", Georgia serif;
+$content:           "Lato", Helvetica, Arial, sans-serif;
 
 /**
  * Base Colors
@@ -16,9 +16,10 @@ $gray:              #3C3C3C;
  * Overrides
  */
 
+$base-font-size:    20px!default;
+$base-line-height:  28px!default;
+
 $use-grids:         true;
 $use-island:        true;
-$use-nav:           true;
 $use-block-list:    true;
-$use-matrix:        true;
 $use-media:         true;
