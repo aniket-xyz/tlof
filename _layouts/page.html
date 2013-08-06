@@ -1,13 +1,17 @@
 ---
 layout: base
 ---
-<div class="page">
+<div class="content page">
+  {% if page.slug != 'home' %}
   <header>
-    <h1 class="post_title">{{ page.title }}</h1>
+    <h1 class="beta post_title">{{ page.title }}</h1>
   </header>
+  {% endif %}
   <article role="main">
     {{ content }}
   </article>
+  {% if page.slug != 'home' %}
   <footer>
   </footer>
+  {% endif %}
 </div><!-- entry -->

@@ -10,15 +10,16 @@ $blue:              #037F8C;
 $red:               #BF2C47;
 
 $white:             #FAFAFA;
-$gray:              #3C3C3C;
+$gray:              #4D4D4D;
 
 /**
  * Overrides
  */
 
-$base-font-size:    20px!default;
-$base-line-height:  28px!default;
+$brand-color:       $red;
+$brand-face:        $content;
 
+$english-quotes:    false;
 $use-grids:         true;
 $use-island:        true;
 $use-block-list:    true;

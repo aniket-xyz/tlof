@@ -14,7 +14,16 @@ body {
   padding-right: 1.25rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
+.brand {
+  border-bottom: none;
+}
+
+h1, .alpha,
+h2, .beta,
+h3, .gamma,
+h4, .delta,
+h5, .epsilon,
+h6, .zeta {
   font-weight: 500;
 }
 
@@ -25,6 +34,10 @@ strong {
 a {
   color: $blue;
   text-decoration: none;
+  border-bottom: 1px solid darken($white, 20%);
+  &:hover {
+    border-bottom-color: $blue;
+  }
 }
 
 .logo {
@@ -33,14 +46,9 @@ a {
 }
 
 .list {
-  .image {
-    width: 200px;
-  }
   a {
     @include vendor(transition, all 250ms linear);
-    .title {
-      margin-bottom: 1rem;
-    }
+    border-bottom: none;
     .title, .info {
       display: block;
       width: 100%;
@@ -51,8 +59,12 @@ a {
   }
 }
 
-article[role="main"] {
-  line-height: 1.5;
+.content {
+  @include font-size($base-font-size * 1.25, 1.6);
+}
+
+.image {
+  width: 250px;
 }
 
 blockquote {
